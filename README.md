@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## What I Do
-My name is Ash and I *love* learning new things! I currently assist teaching introductory C++ at CU Boulder and have an ongoing internship at [Cognex Corporation](https://www.cognex.com/) where I work on embedded web interfaces for industrial barcode readers.
+My name is Ash and I *love* learning new things! I currently assist teaching introductory C++ at CU Boulder and am currently working at [Cognex Corporation](https://www.cognex.com/) where I work on embedded web interfaces for industrial barcode readers.
 
 ![eurekesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=eurekesh&show_icons=true&theme=radical)
 <!--
