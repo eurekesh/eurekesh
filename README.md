@@ -3,8 +3,7 @@
 ## What I Do
 My name is Ash and I *love* learning new things! I typically assist teaching introductory C++ at CU Boulder. I have worked at [Cognex Corporation](https://www.cognex.com/) where I developed on embedded web interfaces for industrial barcode readers. The past two summers (2022-2023) I worked at [Amazon Advertising](https://advertising.amazon.com/)'s Audience Distribution team, where I owned the creation of internal auditing tools and created new customer-serving APIs for advertising campaign management.
 
-![eurekesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=eurekesh&show_icons=true&theme=radical)
-<!--
+<!-- ![eurekesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=eurekesh&show_icons=true&theme=radical)
 **eurekesh/eurekesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
